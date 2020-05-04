@@ -1,0 +1,45 @@
+gh
+body {
+    max-width: 50rem;
+    background-color: black;
+    color: white;   
+    font-family: 'geneva';
+    margin: 0 auto;
+    text-align: center;
+}
+
+html {
+    font-size: 80%;
+    font-family: 'geneva', serif;
+}
+
+thead {  
+    font-style: bold;
+    font-size: 1.25rem;
+}
+
+
+h1 { 
+    font-style: bold;
+    font-family: 'geneva', serif;
+    text-align: center;
+    font-size: 4rem;
+}
+
+nav {
+    font-size: 1rem;
+    font-family: 'geneva', serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
